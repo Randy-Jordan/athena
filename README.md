@@ -7,14 +7,13 @@ My personal C codebase. My goal for 2024 was to learn the C language as well as 
 
 - [Description](#description)
 - [Features](#features) 
-- [Installation](#installation)
 - [Usage](#usage)
 - [Credits / Resources](#credits--resources)
 - [License](#license)
 
 ## Features / TODOs
 
-- [ ] Logging / Testing
+- [x] [Logging / Testing](https://myrepos.xyz/Randy-Jordan/logd)
 - [ ] Exceptions 
 - [ ] Memory
 
