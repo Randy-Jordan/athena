@@ -14,8 +14,8 @@ My personal C codebase. My goal for 2024 was to learn the C language as well as 
 ## Features / TODOs
 
 - [x] [Logging / Testing](https://myrepos.xyz/Randy-Jordan/logd)
-- [ ] Exceptions 
-- [ ] Memory
+- [x] [Exceptions](https://myrepos.xyz/Randy-Jordan/except) 
+- [x] [Memory](https://myrepos.xyz/Randy-Jordan/mem)
 
 
 ## Usage
