@@ -16,6 +16,12 @@ My personal C codebase. My goal for 2024 was to learn the C language as well as 
 - [x] [Logging / Testing](https://myrepos.xyz/Randy-Jordan/logd)
 - [x] [Exceptions](https://myrepos.xyz/Randy-Jordan/except) 
 - [x] [Memory](https://myrepos.xyz/Randy-Jordan/mem)
+- [ ] Arenas
+- [ ] Singly Linked Lists
+- [ ] Doubly Linked Lists
+- [x] [Vectors](https://myrepos.xyz/Randy-Jordan/vec)
+- [ ] String Views
+- [ ] Hash Map
 
 
 ## Usage
